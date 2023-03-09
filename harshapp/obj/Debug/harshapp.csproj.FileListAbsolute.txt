@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\MainWindow.g.cs
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\App.g.cs
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp_MarkupCompile.cache
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp_MarkupCompile.lref
+C:\Users\asus\source\repos\harshapp\harshapp\bin\Debug\harshapp.exe.config
+C:\Users\asus\source\repos\harshapp\harshapp\bin\Debug\harshapp.exe
+C:\Users\asus\source\repos\harshapp\harshapp\bin\Debug\harshapp.pdb
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\MainWindow.baml
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp.g.resources
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp.Properties.Resources.resources
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp.exe
+C:\Users\asus\source\repos\harshapp\harshapp\obj\Debug\harshapp.pdb
